@@ -36,7 +36,7 @@ jobs:
     - run: npm run start02
 
     build03:
-    name: Run Node.js 02
+    name: Run Node.js 03
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v5.0.0
